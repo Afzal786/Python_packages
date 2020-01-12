@@ -1,1 +1,0 @@
-This files provides quick tutorial for the Numpy Python package.
